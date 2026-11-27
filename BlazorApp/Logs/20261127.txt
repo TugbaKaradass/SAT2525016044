@@ -1,0 +1,2 @@
+﻿Timestamp,Level,Category,Operation,Message
+"2026-11-27T00:26:54.0548116Z","Information","Departments_Logs","List","Bölümler listelendi. Sayfa: 1, toplam: 9."
